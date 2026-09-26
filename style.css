@@ -1,0 +1,20 @@
+body {
+  background-color: #1e1e24;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #4a90e2;
+}
+
+/* Style the game arena */
+#gameCanvas {
+  background-color: #38b000; /* Green grass arena */
+  border: 5px solid #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
